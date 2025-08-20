@@ -28,3 +28,4 @@ Builder.registerComponent(PricingSection, {
     },
   ],
 });
+
